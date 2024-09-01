@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vimalchaudhary556@gmail.com**
 
-- ⚡ Fun fact **I Have Delusions for My Gaming Skills**
+- ⚡ Fun fact **I Have Delusions About My Gaming Skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
