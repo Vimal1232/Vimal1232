@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vimal Chaudhary</h1>
 <h3 align="center">Trying To Make Cool Things , learning in Process</h3>
 
-- 🔭 I’m currently working on [Compression using Huffman Coding](https://github.com/Vimal1232/Compression-Using-Huffman-Encoding)
+- 🔭 I’m currently working on [Intel8080 Emulator using C++](https://github.com/Vimal1232/Intel8080)
 
 - 👨‍💻 All of my projects are available at [https://vimalchaudhary.me](https://vimalchaudhary.me)
 
