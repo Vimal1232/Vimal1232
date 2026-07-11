@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Something Cool]
 
-- 👨‍💻 All of my projects are available at [https://vimalchaudhary.me](https://vimalchaudhary.me)
+- 👨‍💻 All of my projects are available at [HellYeah](https://portfolio-new-two-peach.vercel.app/)
 
 - 💬 Ask me about **C++ ,Javscript ,Next, React**
 
