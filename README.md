@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [HellYeah](https://portfolio-new-two-peach.vercel.app/)
 
-- 💬 Ask me about **C++ ,Javscript ,Next, React**
+- 💬 Ask me about **C++, C, Emulators, Systems Programming**
 
 - 📫 How to reach me **vimalchaudhary556@gmail.com**
 
